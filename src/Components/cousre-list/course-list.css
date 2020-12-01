@@ -1,0 +1,43 @@
+.red{
+    background-color: red;
+
+}
+
+.green{
+    background-color: #0ed80e;
+}
+
+li{
+    list-style: none;
+    margin: 15px 0;
+    height: 30px;
+}
+.but-Content button{
+    width: 40%;
+    border-radius: 7px;
+    line-height: 25px;
+    margin-left: 10px;
+    color: #fff;
+    border: none;
+    padding: 2px 0;
+}
+.but-Content{
+    float: right;
+    width: 200px;
+}
+
+li span{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.editUpdate{
+    float: right;
+    width: 16%;
+    border-radius: 7px;
+    line-height: 25px;
+    color: #fff;
+    border: none;
+    padding: 2px 0;
+    background-color: #0ed80e;
+}

@@ -1,0 +1,19 @@
+input {
+    width: 80%;
+    height: 20px;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    padding: 5px 10px;
+}
+
+form .submitbut{
+    width: 15%;
+    border: none;
+    padding: 8px 0;
+    border-radius: 8px;
+    margin: 0 5px;
+    float: right;
+    background-color: #0ed80e;
+    color: #fff;
+}
